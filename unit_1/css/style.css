@@ -3,8 +3,7 @@ body {
 }
 hi, p {
 	color: fuchsia
-	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+	font: Gill Sans;
 	font-size: 36px;
-	font-weight: 400;
 	line-height: 36px;
 }
