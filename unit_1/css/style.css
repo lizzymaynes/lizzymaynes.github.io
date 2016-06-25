@@ -1,6 +1,7 @@
 body {
 	background-color: black
 }
-hi, p {
+h1, p {
+	font-family: "Gill Sans", sans-serif;
 	color: fuchsia
 }
