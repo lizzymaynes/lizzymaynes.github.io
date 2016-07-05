@@ -4,7 +4,10 @@
 }
 
 body {
-	background-color: #590DFF;}
+	background-color: #590DFF;
+	font-family: Helvetica, Arial, sans-serif;
+	line-height: 1.3;
+	}
 
 h1, h2 {
 	color: #E8E5C9;
