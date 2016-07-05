@@ -12,14 +12,17 @@ body {
 
 h1, h2 {
 	color: #E8E5C9;
+	padding-left: 20px;
 }
 
 #slogan {
 	font-style: italic;
+	padding-left: 20px;
 }
 
 p {
 	color: #E8C9E8;
+	padding-left: 20px;
 }
 
 a {
