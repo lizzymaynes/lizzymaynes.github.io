@@ -6,10 +6,15 @@
 body {
 	background-color: #590DFF;}
 
-h1 {
+h1, h2 {
 	color: #E8E5C9;
 }
 
 #slogan {
 	font-style: italic;
+	color: E8C80C;
+}
+
+p {
+	color: E8C80C;
 }
