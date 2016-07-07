@@ -19,10 +19,23 @@ section {
 }
 section#splash {
 	background:#590DFF;
-	color:#E8E5C9;
+	color:#203D9C;
 	padding:10em 0;
 	text-align:center;
 }
+
+section#writing {
+	background-color:#9CE8E7
+}
+
+section#projects {
+	background-color:#F2743D
+}
+
+section#consumption {
+	background-color:#FCD264
+}
+
 h1 {
 	font-family: 'Raleway', sans-serif;
 	color: #E8E5C9;
