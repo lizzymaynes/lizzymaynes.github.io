@@ -1,0 +1,43 @@
+@import 'https://fonts.googleapis.com/css?family=Old+Standard+TT|Questrial';
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing:border-box;
+}
+img {
+	width:400px;
+}
+body {
+	color: #444;
+	font-family: 'Old Standard TT', serif;
+	line-height: 1.3;
+}
+section {
+	padding:5em 0;
+}
+section#splash {
+	background:#590DFF;
+	color:#E8E5C9;
+	padding:10em 0;
+	text-align:center;
+}
+h1, h2 {
+	font-family: 'Questrial', sans-serif;
+	color: #E8E5C9;
+}
+
+#slogan {
+}
+
+p {
+	margin-top:1em;
+}
+
+ul {
+	padding-left: 40px;	
+}
+
+a {
+	color: #FC320D;
+}
