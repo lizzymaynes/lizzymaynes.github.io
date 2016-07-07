@@ -26,7 +26,6 @@ section#splash {
 h1 {
 font-family: 'Playfair Display', serif;
 	color: #E8E5C9;
-	font-size: 2em;
 }
 
 h2 {
@@ -35,7 +34,12 @@ font-family: 'Playfair Display', serif;
 }
 
 #slogan {
-	padding: 1.5em
+	padding: 1em
+	font-size: 2em;
+	font-family: 'Playfair Display', serif;
+	font-style: italic;
+	font-weight: bold;
+
 }
 
 p {
