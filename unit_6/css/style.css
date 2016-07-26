@@ -62,6 +62,11 @@ h1 {
     letter-spacing:0.15em;
 }
 
+#info{
+	float: left;
+	padding: 40px 40px 20px 75px;
+}
+
 section#writing {
 	background-color:#6B2218;
 }
