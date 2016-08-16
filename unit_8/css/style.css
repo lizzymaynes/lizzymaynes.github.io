@@ -36,7 +36,7 @@ h1 {
 	padding: 2.75%;
 	text-transform:lowercase;
 	color: #eee
-	text-align: center;
+	text-align:center;
 	margin: auto;
 	border: 1px solid #6B2218;
 	}
@@ -56,15 +56,11 @@ h1 {
 
 .info {
 	float: left;
-	width:400px;
+	width:33.33%;
 	box-sizing: border-box;
 	padding:40px;
 	text-transform: lowercase;
-}
-
-#info{
-	float: left;
-	padding: 40px 40px 20px 75px;
+	text-align: center;
 }
 
 section#writing {
