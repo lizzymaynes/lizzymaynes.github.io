@@ -181,7 +181,8 @@ section#consumption h2 {
 
 section#consumption p {
 	color: #2B2B28;
-	width: 85%;
+	width: 95%;
+	padding: 2em 1em 0 0;
 }
 
 
@@ -210,7 +211,6 @@ section#consumption p {
 	width: 100px;
 	margin: 1.5em;
 	}
-
 }
 
 @media only screen and (max-width: 630px) {
@@ -227,7 +227,6 @@ section#consumption p {
 	margin-bottom: 2em;
 	border: 2px solid #6B2218;
 	width: 345px;
-
 	}
 }
 
@@ -252,9 +251,16 @@ section#consumption p {
 @media only screen and (max-width: 442px) {
 	h1 {
     letter-spacing: .2em;
-    font-size: 3.2em;
-    width: 345px;
+    font-size: 3em;
+    width: 300px;
     margin: auto;
+	}
+
+	p#slogan {
+	margin-bottom: 2em;
+	border: 2px solid #6B2218;
+	width: 300px;
+	font-size: .85em;
 	}
 
 	body {
