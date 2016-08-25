@@ -267,8 +267,8 @@ section#consumption p {
 	}
 
 	section#consumption img {
-	width: 80px;
-	margin: 1.5em;
+	width: 72px;
+	margin: 1em;
 	}
 
 	.left {
@@ -296,5 +296,9 @@ section#consumption p {
 	width: 270px;
 	font-size: .85em;
 	text-align: center;
+	}
+
+	section#consumption img {
+	width: 60px;
 	}
 }
