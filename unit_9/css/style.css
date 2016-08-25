@@ -254,12 +254,9 @@ section#consumption p {
     letter-spacing: .2em;
     font-size: 3em;
     width: 300px;
-    margin: auto;
 	}
 
 	p#slogan {
-	margin-bottom: 2em;
-	border: 2px solid #6B2218;
 	width: 300px;
 	font-size: .85em;
 	}
@@ -286,4 +283,18 @@ section#consumption p {
 	width: 80%;
 	}
 
+}
+
+@media only screen and (max-width: 330px) {
+	h1 {
+    letter-spacing: .18em;
+    font-size: 2.8em;
+    width: 276px;
+	}
+
+	p#slogan {
+	width: 270px;
+	font-size: .85em;
+	text-align: center;
+	}
 }
